@@ -1,10 +1,10 @@
-# 🚀 Laravel 11 + Jetstream (Livewire)
+#  Laravel 11 + Jetstream (Livewire)
 
 Starter kit prêt à l'emploi avec **Laravel 11**, **Jetstream 5**, **Livewire 3**, **Tailwind CSS 3** et **SQLite**.
 
 ---
 
-## ✅ Prérequis
+## Prérequis
 
 | Outil    | Version minimale |
 |----------|-----------------|
@@ -15,7 +15,7 @@ Starter kit prêt à l'emploi avec **Laravel 11**, **Jetstream 5**, **Livewire 3
 
 ---
 
-## ⚡ Installation rapide
+##  Installation rapide
 
 ```bash
 chmod +x setup.sh && ./setup.sh
@@ -23,7 +23,7 @@ chmod +x setup.sh && ./setup.sh
 
 ---
 
-## 🔧 Installation manuelle
+##  Installation manuelle
 
 ```bash
 composer install
@@ -40,18 +40,18 @@ Accès : **http://localhost:8000**
 
 ---
 
-## 🔑 Features Jetstream activées
+##  Features Jetstream activées
 
 | Feature               | Statut        |
 |-----------------------|---------------|
-| Inscription           | ✅ actif      |
-| Connexion             | ✅ actif      |
-| Réinitialisation MDP  | ✅ actif      |
-| Photo de profil       | ✅ actif      |
-| 2FA (TOTP)            | ✅ actif      |
-| Suppression de compte | ✅ actif      |
-| API Tokens            | ❌ désactivé  |
-| Teams                 | ❌ désactivé  |
+| Inscription           |  actif      |
+| Connexion             |  actif      |
+| Réinitialisation MDP  |  actif      |
+| Photo de profil       |  actif      |
+| 2FA (TOTP)            |  actif      |
+| Suppression de compte |  actif      |
+| API Tokens            |  désactivé  |
+| Teams                 |  désactivé  |
 
 Pour activer une feature, éditez `config/jetstream.php` et `config/fortify.php`.
 
@@ -74,7 +74,7 @@ DB_PASSWORD=secret
 
 ---
 
-## 👤 Compte de test (après `php artisan db:seed`)
+##  Compte de test (après `php artisan db:seed`)
 
 ```
 Email    : test@example.com
@@ -83,7 +83,7 @@ Password : password
 
 ---
 
-## 🛠 Commandes utiles
+##  Commandes utiles
 
 ```bash
 php artisan serve          # Serveur local
@@ -95,7 +95,7 @@ php artisan config:clear   # Vider le cache config
 
 ---
 
-## 📦 Stack technique
+##  Stack technique
 
 - **Laravel** 11 · **Jetstream** 5 · **Livewire** 3
 - **Tailwind CSS** 3 · **Alpine.js** 3 · **Vite** 5
