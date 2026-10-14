@@ -57,7 +57,7 @@ Pour activer une feature, éditez `config/jetstream.php` et `config/fortify.php`
 
 ---
 
-## 🗄 Base de données
+## Base de données
 
 Par défaut **SQLite** — aucune config serveur requise.
 
