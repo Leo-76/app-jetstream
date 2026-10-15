@@ -1,5 +1,5 @@
 {
-    "name": "laravel/laravel",
+    "name": "leo-76/app-jetstream",
     "type": "project",
     "description": "Laravel + Jetstream (Livewire) starter",
     "keywords": ["laravel", "jetstream", "livewire"],
